@@ -8,7 +8,7 @@ public class PalmerPenguinsM7 {
         // Create an instance of SpeciesCounter
         SpeciesCounter counter = new SpeciesCounter();
         
-        //Read species data
+        // Read species data
         counter.readSpeciesData();
         
         // Initialize species count
@@ -27,4 +27,5 @@ public class PalmerPenguinsM7 {
         // Print results
         counter.printSpeciesCount();
     }
+
 }                              
